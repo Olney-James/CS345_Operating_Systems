@@ -1,0 +1,113 @@
+﻿  lab05.cpp
+  HelloWorld.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(307): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(307): error C2226: syntax error: unexpected type '_Ty::element_type'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(307): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(307): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(308): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(308): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(321): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(321): error C2226: syntax error: unexpected type '_Ty::difference_type'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(321): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(321): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(322): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(322): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(337): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(337): error C2226: syntax error: unexpected type '_Ty::rebind<_Other>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(337): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(337): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(338): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(338): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(353): error C2061: syntax error: identifier 'conditional_t'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(361): note: see reference to class template instantiation 'std::pointer_traits<_Ty>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(355): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(357): error C2061: syntax error: identifier '_Reftype'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(373): error C2061: syntax error: identifier 'conditional_t'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(381): note: see reference to class template instantiation 'std::pointer_traits<_Ty*>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(375): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(377): error C2061: syntax error: identifier '_Reftype'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(390): error C2061: syntax error: identifier 'enable_if_t'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(390): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(390): error C2059: syntax error: ','
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(392): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(392): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(397): error C2061: syntax error: identifier 'enable_if_t'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(397): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(397): error C2059: syntax error: ','
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(399): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(399): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(438): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(438): error C2226: syntax error: unexpected type '_Ty::pointer'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(438): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(438): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(439): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(439): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(457): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(457): error C2226: syntax error: unexpected type '_Ty::const_pointer'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(457): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(457): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(458): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(458): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(473): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(473): error C2226: syntax error: unexpected type '_Ty::void_pointer'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(473): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(473): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(474): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(474): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(488): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(488): error C2226: syntax error: unexpected type '_Ty::const_void_pointer'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(488): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(488): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(489): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(489): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(505): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(505): error C2226: syntax error: unexpected type '_Ty::difference_type'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(505): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(505): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(506): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(506): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(516): error C2061: syntax error: identifier 'make_unsigned_t'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(517): note: see reference to class template instantiation 'std::_Get_size_type<_Ty,<unnamed-symbol>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(516): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(522): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(522): error C2226: syntax error: unexpected type '_Ty::size_type'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(522): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(522): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(523): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(523): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(533): error C2061: syntax error: identifier 'false_type'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(534): note: see reference to class template instantiation 'std::_Get_propagate_on_container_copy<_Ty,<unnamed-symbol>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(533): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(537): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(537): error C2226: syntax error: unexpected type '_Ty::propagate_on_container_copy_assignment'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(537): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(537): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(538): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(538): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(547): error C2061: syntax error: identifier 'false_type'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(548): note: see reference to class template instantiation 'std::_Get_propagate_on_container_move<_Ty,<unnamed-symbol>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(547): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(551): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(551): error C2226: syntax error: unexpected type '_Ty::propagate_on_container_move_assignment'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(551): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(551): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(552): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(552): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(561): error C2061: syntax error: identifier 'false_type'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(562): note: see reference to class template instantiation 'std::_Get_propagate_on_container_swap<_Ty,<unnamed-symbol>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(561): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(565): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(565): error C2226: syntax error: unexpected type '_Ty::propagate_on_container_swap'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(565): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(565): error C2059: syntax error: '>'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(566): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(566): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(575): error C2146: syntax error: missing ';' before identifier 'is_empty'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(576): note: see reference to class template instantiation 'std::_Get_is_always_equal<_Ty,<unnamed-symbol>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(575): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(575): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(575): error C2238: unexpected token(s) preceding ';'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(579): error C2065: 'void_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(579): error C2226: syntax error: unexpected type '_Ty::is_always_equal'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.12.25827\include\xmemory0(579): fatal error C1003: error count exceeds 100; stopping compilation
+  Generating Code...

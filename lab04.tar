@@ -1,0 +1,12 @@
+ -rw------- jameslo/student     846 makefile
+ -rwx------ jameslo/student      83 hello_world.cpp
+ -rw------- jameslo/student    2479 lab01.cpp
+ -rw------- jameslo/student    4802 lab03.cpp
+ -rw------- jameslo/student    3146 lab04.cpp
+ -rw------- jameslo/student    6442 schedule.cpp
+ -rw------- jameslo/student    3177 process.h
+ -rw------- jameslo/student    2218 scheduleFCFS.h
+ -rw------- jameslo/student    2392 schedule.h
+ -rw------- jameslo/student    1902 scheduleRR.h
+ -rw------- jameslo/student    1966 scheduleSJF.h
+ -rw------- jameslo/student    2616 scheduleSRT.h
